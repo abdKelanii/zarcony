@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 350.1 145" style="enable-background:new 0 0 350.1 145;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_00000171683203503027051460000008479321196804845245_);}
+	.st1{fill:#673AB7;}
+	.st2{fill:#AADB23;}
+	.st3{fill:#7B9E19;}
+	.st4{fill:#617D14;}
+	.st5{fill:#475C0F;}
+	.st6{filter:url(#Rectangle_174);}
+	.st7{opacity:0.901;fill:url(#Rectangle_174-2_00000154399236554444806980000013438681382239967875_);enable-background:new    ;}
+</style>
+<filter  filterUnits="userSpaceOnUse" height="296" id="Rectangle_174" width="501" x="0" y="0">
+	<feOffset  dx="15" dy="15" input="SourceAlpha"></feOffset>
+	<feGaussianBlur  result="blur" stdDeviation="25"></feGaussianBlur>
+	<feFlood  flood-color="#075a2e" flood-opacity="0.149"></feFlood>
+	<feComposite  in2="blur" operator="in"></feComposite>
+	<feComposite  in="SourceGraphic" operator="over"></feComposite>
+</filter>
+<g id="Group_1404" transform="translate(-447.5 -1154.5)">
+	<g>
+		<defs>
+			<path id="SVGID_1_" d="M466,1154.5h313.3c10.1,0,18.4,8.2,18.4,18.3v108.3c0,10.1-8.2,18.3-18.4,18.3H466
+				c-10.1,0-18.4-8.2-18.4-18.3v-108.3C447.6,1162.7,455.8,1154.5,466,1154.5z"/>
+		</defs>
+		<clipPath id="SVGID_00000069372622221242393860000008587734142057426075_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		
+			<g id="Mask_by_Rectangle" transform="translate(508 1215)" style="clip-path:url(#SVGID_00000069372622221242393860000008587734142057426075_);">
+			<g id="Mask_by_Rectangle-2" transform="translate(-434.467 -283.213)">
+				<rect id="Rectangle" x="374.1" y="222.7" class="st1" width="350" height="163.1"/>
+				<ellipse id="Oval" class="st2" cx="374" cy="222.6" rx="434.4" ry="283.1"/>
+				<ellipse id="Oval_Copy_3" class="st3" cx="374" cy="222.6" rx="315.7" ry="205.8"/>
+				<ellipse id="Oval_Copy_2" class="st4" cx="374" cy="222.7" rx="221.6" ry="144.5"/>
+				<ellipse id="Oval_Copy" class="st5" cx="374" cy="222.6" rx="122.2" ry="79.7"/>
+			</g>
+		</g>
+	</g>
+	<g transform="matrix(1, 0, 0, 1, 447.5, 1154.5)" class="st6">
+		
+			<linearGradient id="Rectangle_174-2_00000147936604558191942270000017357794407023643788_" gradientUnits="userSpaceOnUse" x1="-347.5758" y1="446.0714" x2="-348.5328" y2="447.0124" gradientTransform="matrix(350 0 0 -145 121995.1641 64821.5)">
+			<stop  offset="0" style="stop-color:#502C84;stop-opacity:0.404"/>
+			<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0.141"/>
+		</linearGradient>
+		
+			<path id="Rectangle_174-2_00000172409130217249731180000001352182398086332607_" style="opacity:0.901;fill:url(#Rectangle_174-2_00000147936604558191942270000017357794407023643788_);enable-background:new    ;" d="
+			M18.1,0h314c9.9,0,18,8.1,18,18v109c0,9.9-8.1,18-18,18h-314c-9.9,0-18-8.1-18-18V18C0.1,8.1,8.2,0,18.1,0z"/>
+	</g>
+</g>
+</svg>

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1071" height="394" viewBox="0 0 1071 394">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="vectorMask" width="920" height="243" rx="18" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.978" y1="0.977" x2="0.021" y2="0.036" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#502c84" stop-opacity="0.404"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0.141"/>
+    </linearGradient>
+    <filter id="Rectangle_177" x="0" y="0" width="1071" height="394" filterUnits="userSpaceOnUse">
+      <feOffset dx="15" dy="15" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="25" result="blur"/>
+      <feFlood flood-color="#075a2e" flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_1406" data-name="Group 1406" transform="translate(60.5 60)">
+    <g id="Group_20" data-name="Group 20">
+      <g id="_18" data-name="18">
+        <rect id="Rectangle" width="920" height="243" rx="18" fill="#00105c"/>
+        <g id="Mask_by_Rectangle" data-name="Mask by Rectangle" clip-path="url(#clip-path)">
+          <g id="Mask_by_Rectangle-2" data-name="Mask by Rectangle" transform="translate(-69.423 -66.122)">
+            <path id="Rectangle-2" data-name="Rectangle" d="M1511.8,1387h173.364v137.062h0l-444.526,13.579c-35.258,1.077-44.442-6.853-20.545-17.74L1511.8,1387Z" transform="translate(-696.011 -1320.878)" fill="#798bff" opacity="0.502"/>
+            <path id="Rectangle-3" data-name="Rectangle" d="M1649.852,1555.75l-389.727-17.359c-35.153-1.566-53.231,8.3-40.445,22.075l94.433,101.715h349.472l37.234-77.408C1707.787,1570.29,1685,1557.316,1649.852,1555.75Z" transform="translate(-680.383 -1296.448)" fill="#00105c"/>
+            <path id="Oval" d="M1033.288,1426.178c0-46.424,585.595-96.1,696.389-96.1s-25.555,123.677-276.639,135.189-140.289,68-251.083,68S1033.288,1472.6,1033.288,1426.178Z" transform="translate(-1004.755 -1330.074)" fill="#082ac8" opacity="0.502"/>
+            <path id="Triangle" d="M1182.745,1575.561c-139.278,76.026,27.82,30.413-159.722,101.238l583.944-5.669c-42.44-56.282-53.028-48.454-164.194-72.011s178.972-127.736,123.305-132.779S1322.022,1499.534,1182.745,1575.561Z" transform="translate(-1023.023 -1308.132)" fill="#798bff" opacity="0.502"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -60.5, -60)" filter="url(#Rectangle_177)">
+      <rect id="Rectangle_177-2" data-name="Rectangle 177" width="920" height="243" rx="18" transform="translate(60.5 60.5)" stroke="rgba(0,0,0,0.05)" stroke-width="1" opacity="0.901" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>

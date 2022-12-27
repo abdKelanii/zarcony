@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24.013" height="35.085" viewBox="0 0 24.013 35.085">
+  <g id="Phone_Rotate" transform="translate(-7.425 0.111)" opacity="0.3">
+    <g id="Smart_Phone" transform="translate(8.432 0.932)">
+      <path id="Path_731" data-name="Path 731" d="M10.707,3.126,22.771.981A2.7,2.7,0,0,1,25.931,3.2L30.383,28.59a2.691,2.691,0,0,1-2.226,3.147L16.093,33.883a2.7,2.7,0,0,1-3.16-2.217L8.481,6.274A2.727,2.727,0,0,1,10.707,3.126Z" transform="translate(-8.432 -0.932)" fill="none" stroke="#00105c" stroke-width="2"/>
+      <circle id="Ellipse_15" data-name="Ellipse 15" cx="1.365" cy="1.365" r="1.365" transform="translate(11.675 28.034) rotate(-9.997)" fill="#00105c"/>
+      <line id="Line_11" data-name="Line 11" y1="3.018" x2="17.387" transform="translate(4.061 25)" fill="none" stroke="#00105c" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

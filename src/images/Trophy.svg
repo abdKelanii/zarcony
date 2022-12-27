@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48.002" viewBox="0 0 48 48.002">
+  <g id="Trophy" transform="translate(0 0.002)">
+    <line id="Line_22" data-name="Line 22" x1="28" transform="translate(10 47)" fill="none" stroke="#082ac8" stroke-width="2"/>
+    <path id="Path_763" data-name="Path 763" d="M10,47c10,0,12.9-13.5,13-14h2c.1.5,3,14,13,14" fill="none" stroke="#082ac8" stroke-width="2"/>
+    <path id="Path_764" data-name="Path 764" d="M24,33h0c-8.2,0-13.4-9.1-15-18.5L7,2,24,1,41,2,39,14.5C37.6,23.6,32.2,33,24,33Z" fill="none" stroke="#082ac8" stroke-width="2"/>
+    <path id="Path_765" data-name="Path 765" d="M24,33h1A21.937,21.937,0,0,0,47,11H39.5" fill="none" stroke="#082ac8" stroke-width="2"/>
+    <path id="Path_766" data-name="Path 766" d="M24,33H23A21.937,21.937,0,0,1,1,11H8.5" fill="none" stroke="#082ac8" stroke-width="2"/>
+  </g>
+</svg>

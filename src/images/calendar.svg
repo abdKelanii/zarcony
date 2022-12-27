@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="27.04" viewBox="0 0 24 27.04">
+  <g id="Group_639" data-name="Group 639" transform="translate(-796 -1430.96)">
+    <g id="Calendar" transform="translate(796.004 1430.502)" opacity="0.3">
+      <g id="Group_638" data-name="Group 638">
+        <line id="Line_13" data-name="Line 13" x2="16" transform="translate(3.996 9.498)" fill="none" stroke="#00105c" stroke-width="2" stroke-dasharray="2 2.5"/>
+        <line id="Line_14" data-name="Line 14" x2="16" transform="translate(3.996 13.498)" fill="none" stroke="#00105c" stroke-width="2" stroke-dasharray="2 2.5"/>
+        <line id="Line_15" data-name="Line 15" x2="16" transform="translate(3.996 17.498)" fill="none" stroke="#00105c" stroke-width="2" stroke-dasharray="2 2.5"/>
+        <line id="Line_16" data-name="Line 16" x2="8" transform="translate(3.996 21.498)" fill="none" stroke="#00105c" stroke-width="2" stroke-dasharray="2 2.5"/>
+      </g>
+    </g>
+    <rect id="Rectangle_176" data-name="Rectangle 176" width="22" height="22" rx="3" transform="translate(797 1435)" fill="none" stroke="#00105c" stroke-width="2" opacity="0.3"/>
+    <path id="Path_733" data-name="Path 733" d="M7588.6,1647v-3.04" transform="translate(-6786 -213)" fill="none" stroke="#00105c" stroke-width="2" opacity="0.3"/>
+    <path id="Path_734" data-name="Path 734" d="M7588.6,1647v-3.04" transform="translate(-6775 -213)" fill="none" stroke="#00105c" stroke-width="2" opacity="0.3"/>
+  </g>
+</svg>

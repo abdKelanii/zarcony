@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="254.784" height="123.543" viewBox="0 0 254.784 123.543">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="vectorMask" width="254.784" height="123.544" rx="18.35" fill="#502c84"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_by_Rectangle" data-name="Mask by Rectangle" clip-path="url(#clip-path)">
+    <g id="Mask_by_Rectangle-2" data-name="Mask by Rectangle" transform="translate(-316.271 -241.304)">
+      <rect id="Rectangle" width="254.784" height="138.932" transform="translate(316.271 241.304)" fill="#673ab7"/>
+      <ellipse id="Oval" cx="316.187" cy="241.233" rx="316.187" ry="241.233" fill="#aadb23"/>
+      <ellipse id="Oval_Copy_3" data-name="Oval Copy 3" cx="229.799" cy="175.328" rx="229.799" ry="175.328" transform="translate(86.387 65.905)" fill="#7b9e19"/>
+      <ellipse id="Oval_Copy_2" data-name="Oval Copy 2" cx="161.348" cy="123.1" rx="161.348" ry="123.1" transform="translate(154.854 118.151)" fill="#617d14"/>
+      <ellipse id="Oval_Copy" data-name="Oval Copy" cx="88.958" cy="67.872" rx="88.958" ry="67.872" transform="translate(227.228 173.361)" fill="#475c0f"/>
+    </g>
+  </g>
+</svg>

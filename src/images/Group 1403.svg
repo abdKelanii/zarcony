@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="501" height="296" viewBox="0 0 501 296">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="vectorMask" width="350" height="145" rx="18.35" fill="#502c84"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.978" y1="0.977" x2="0.021" y2="0.036" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#502c84" stop-opacity="0.404"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0.141"/>
+    </linearGradient>
+    <filter id="Rectangle_174" x="0" y="0" width="501" height="296" filterUnits="userSpaceOnUse">
+      <feOffset dx="15" dy="15" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="25" result="blur"/>
+      <feFlood flood-color="#075a2e" flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_1403" data-name="Group 1403" transform="translate(-447.5 -1154.5)">
+    <g id="Mask_by_Rectangle" data-name="Mask by Rectangle" transform="translate(508 1215)" clip-path="url(#clip-path)">
+      <g id="Mask_by_Rectangle-2" data-name="Mask by Rectangle" transform="translate(-434.467 -283.213)">
+        <rect id="Rectangle" width="350" height="163.062" transform="translate(434.467 283.213)" fill="#673ab7"/>
+        <ellipse id="Oval" cx="434.35" cy="283.129" rx="434.35" ry="283.129" fill="#7f45d1"/>
+        <ellipse id="Oval_Copy_3" data-name="Oval Copy 3" cx="315.679" cy="205.778" rx="315.679" ry="205.778" transform="translate(118.671 77.351)" fill="#60349e"/>
+        <ellipse id="Oval_Copy_2" data-name="Oval Copy 2" cx="221.645" cy="144.479" rx="221.645" ry="144.479" transform="translate(212.726 138.671)" fill="#41236b"/>
+        <ellipse id="Oval_Copy" data-name="Oval Copy" cx="122.203" cy="79.659" rx="122.203" ry="79.659" transform="translate(312.147 203.47)" fill="#221338"/>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 447.5, 1154.5)" filter="url(#Rectangle_174)">
+      <rect id="Rectangle_174-2" data-name="Rectangle 174" width="350" height="145" rx="18" transform="translate(60.5 60.5)" stroke="rgba(0,0,0,0.05)" stroke-width="1" opacity="0.901" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>
